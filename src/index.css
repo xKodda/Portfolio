@@ -25,3 +25,7 @@
 .b-glow {
   box-shadow: 0 0 15px rgb(206, 71, 193);
 }
+
+.hover\:scale-110:hover {
+  transform: scale(1.1);
+}
